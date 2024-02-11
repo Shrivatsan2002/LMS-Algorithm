@@ -1,4 +1,4 @@
-# LMS-_Algorithm
+# LMS_Algorithm
 In signal processing applications, unwanted noise can significantly degrade desired signals, impacting performance and accuracy. Noise cancellation techniques are essential for mitigating this inference and ensuring precise signal analysis, communication, and detection.
 
 This project focuses on implementing a noise cancellation system using an adaptive filter based on the Least Mean Squares (LMS) algorithm. Optimized with MATLAB, Simulink the system aims to efficiently cancel noise in real-time, providing robust noise cancellation capabilities for various practical applications. Using the HDL Coder tool, Verilog code was generated for the LMS-based adaptive filter, which was subsequently simulated using Intel Quartus Prime and ModelSim, and the effectiveness of the FPGA-based implementation is confirmed, demonstrating its suitability for real-world noise cancellation scenarios.
